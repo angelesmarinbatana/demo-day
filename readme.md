@@ -5,12 +5,17 @@ Assignment: Demo Day
 My goal for the demonstration was to see the difference in performance between different apple chip architectures, specifically for the m1 macbook air and the m3 macbook pro by testing how well they handle parallel workloads with level 3 optimization using matrix multiplication as a benchmark. 
 
 ### Findings:
-M1 macbook air- 8 cores: 4 performance 4 efficiency 
-- 5x speefup with 8 cores.
+#### **M1 macbook air- 8 cores: 4 performance 4 efficiency**
+
+<img width="800" height="600" alt="m1-speedup" src="https://github.com/user-attachments/assets/6af915ee-ce32-4b35-9eed-359d17b4260b" />
+
+- 5x speefup with 8 cores.  
 - gains dip around 4/5 threads, where you start using slower efficiency cores.
 
-M3 macbook pro- 11 cores: 5 performance 6 efficiency 
-- around 6.7x speedup with 11 cores.
+#### **M3 macbook pro- 11 cores: 5 performance 6 efficiency**
+<img width="800" height="600" alt="m3-speedup" src="https://github.com/user-attachments/assets/17103664-fbd1-49d6-93ba-3268d6e81c40" />
+
+- around 6.7x speedup with 11 cores.  
 - similar dip around 4/5 threads. 
 
 ### Files 
