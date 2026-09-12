@@ -1,0 +1,16 @@
+matrix 1 max threads available: 1
+elapsed: 8.458026
+matrix 2 max threads available: 2
+elapsed: 4.459917
+matrix 3 max threads available: 3
+elapsed: 3.032146
+matrix 4 max threads available: 4
+elapsed: 2.308462
+matrix 5 max threads available: 5
+elapsed: 2.424061
+matrix 6 max threads available: 6
+elapsed: 2.144525
+matrix 7 max threads available: 7
+elapsed: 1.888108
+matrix 8 max threads available: 8
+elapsed: 1.695253
