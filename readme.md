@@ -17,7 +17,6 @@ My goal for the demonstration was to see the difference in performance between d
 
 - around 6.7x speedup with 11 cores.  
 - similar dip around 4/5 threads.
-- 
 
 ### Files 
 - [`cores.c`](https://github.com/angelesmarinbatana/demo-day/blob/main/cores.c): test to see your core/ thread count.
