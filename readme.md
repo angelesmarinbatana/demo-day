@@ -2,7 +2,7 @@ Assignment: Demo Day
 
 ### Matrix Multiplication Parallelism Benchmark 
 
-My goal for the demonstration was to see the difference in performance between difference apple chip architectures, specifically the m1 macbook air and the m3 macbook pro by testing how well they handle parallel workloads with level 3 optimization using matrix multiplication as a benchmark. 
+My goal for the demonstration was to see the difference in performance between different apple chip architectures, specifically for the m1 macbook air and the m3 macbook pro by testing how well they handle parallel workloads with level 3 optimization using matrix multiplication as a benchmark. 
 
 ### Findings:
 M1 macbook air- 8 cores: 4 performance 4 efficiency 
