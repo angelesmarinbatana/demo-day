@@ -26,4 +26,4 @@ My goal for the demonstration was to see the difference in performance between d
 - [`presentation.pdf`](https://github.com/angelesmarinbatana/demo-day/blob/main/presentation.pdf): my slides i presented.
 
 ### Note:
-some commands in shell scripts `plot.sh` and `bench.sh` contain macOS-specific lines and might break on mon-macOS
+some commands in shell scripts `plot.sh` and `bench.sh` contain macOS-specific lines and might break on non-macOS
