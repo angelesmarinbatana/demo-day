@@ -23,7 +23,7 @@ My goal for the demonstration was to see the difference in performance between d
 - [`matrix.c`](https://github.com/angelesmarinbatana/demo-day/blob/main/matrix.c): the benchmark that multiples two 350x350 matrices for 200 iterations with openmp parallelization. 
 - [`bench.sh`](https://github.com/angelesmarinbatana/demo-day/blob/main/bench.sh): program runs the matrix multiplication benchmark across all cores and collects time data
 - [`plot.sh`](https://github.com/angelesmarinbatana/demo-day/blob/main/plot.sh): make graph for comparing thread/ core count to performance gain. 
-- [`presentation.pdf`](https://github.com/angelesmarinbatana/demo-day/blob/main/presentation.pdf): my slides i presented.
+- [`presentation.pdf`](https://github.com/angelesmarinbatana/demo-day/blob/main/presentation.pdf): slides i presented.
 
 ### Note:
 some commands in shell scripts `plot.sh` and `bench.sh` contain macOS-specific lines and might break on non-macOS
