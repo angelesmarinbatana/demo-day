@@ -16,7 +16,10 @@ My goal for the demonstration was to see the difference in performance between d
 <img width="800" height="600" alt="m3-speedup" src="https://github.com/user-attachments/assets/17103664-fbd1-49d6-93ba-3268d6e81c40" />
 
 - around 6.7x speedup with 11 cores.  
-- similar dip around 4/5 threads. 
+- similar dip around 4/5 threads.
+
+### Note:
+some commands in shell scripts `plot.sh` and `bench.sh` contain macOS-specific lines that might break on linux. 
 
 ### Files 
 - [`cores.c`](https://github.com/angelesmarinbatana/demo-day/blob/main/cores.c): test to see your core/ thread count.
