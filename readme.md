@@ -14,8 +14,8 @@ M3 macbook pro- 11 cores: 5 performance 6 efficiency
 - similar dip around 4/5 threads. 
 
 ### Files 
-- [`cores.c`](https://github.com/angelesmarinbatana/amarinba-hpds/blob/main/demo-day/cores.c]): see your core/ thread count.
-- [`matrix.c`](https://github.com/angelesmarinbatana/amarinba-hpds/blob/main/demo-day/cores.c]): the benchmark that multiples two 350x350 matrices for 200 iterations with openmp parallelization. 
-- [`bench.c`](https://github.com/angelesmarinbatana/amarinba-hpds/blob/main/demo-day/cores.c]): benchmark across all available threads + collects time data
-- [`bench.c`](https://github.com/angelesmarinbatana/amarinba-hpds/blob/main/demo-day/cores.c]): graph comparing thread/ core count to performance gain. 
-- [`presentation.c`](https://github.com/angelesmarinbatana/amarinba-hpds/blob/main/demo-day/cores.c]): my slides i presented.
+- [`cores.c`](https://github.com/angelesmarinbatana/demo-day/blob/main/cores.c): test to see your core/ thread count.
+- [`matrix.c`](https://github.com/angelesmarinbatana/demo-day/blob/main/matrix.c): the benchmark that multiples two 350x350 matrices for 200 iterations with openmp parallelization. 
+- [`bench.sh`](https://github.com/angelesmarinbatana/demo-day/blob/main/bench.sh): program runs the matrix multiplication benchmark across all cores and collects time data
+- [`plot.sh`](https://github.com/angelesmarinbatana/demo-day/blob/main/plot.sh): make graph to comparing thread/ core count to performance gain. 
+- [`presentation.pdf`](https://github.com/angelesmarinbatana/demo-day/blob/main/presentation.pdf): my slides i presented.
